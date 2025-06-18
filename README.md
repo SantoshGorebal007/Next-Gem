@@ -1,4 +1,6 @@
 Overview
+
+
 Next-Gem is a developer-focused toolkit designed to streamline the creation of modern, responsive
 websites that effectively showcase innovative technology. Built with clean structure and user
 experience in mind, it offers a cohesive foundation for engaging, mobile-friendly sites.
