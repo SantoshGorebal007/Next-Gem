@@ -1,43 +1,43 @@
-Overview
+# Next Gen Website
 
+A modern, responsive website project built with HTML, CSS, and JavaScript.
 
-Next-Gem is a developer-focused toolkit designed to streamline the creation of modern, responsive
-websites that effectively showcase innovative technology. Built with clean structure and user
-experience in mind, it offers a cohesive foundation for engaging, mobile-friendly sites.
+## Features
 
+- Clean and responsive design
+- Multiple pages (`index.html`, `tech.html`)
+- Custom styles in `styles.css`
+- Image assets in the `images/` folder
 
-Why Next-Gem?
-This project helps developers rapidly build sleek, adaptable websites with minimal effort. The core
-features include:
-Responsive Layout: Organizes content into key sections for a cohesive user experience across
-devices.
-Mobile Navigation: Implements seamless toggle functionality for intuitive mobile menu
-access.
-Tech Showcase: Features a dedicated section with branding, icons, and calls-to-action to
-highlight technological offerings.
+## Project Structure
 
-Cross-Device Compatibility: Ensures consistent performance and appearance on desktops,
-tablets, and smartphones.
-Customizable Design: Provides a flexible structure that can be tailored to various project
-needs.
+```
+app.js
+index.html
+styles.css
+tech.html
+images/
+  pic1.svg
+  pic2.jpg
+  pic3.jpg
+  pic4.jpg
+```
 
-Getting Started
-Prerequisites
-This project requires the following dependencies:
-Programming Language: HTML
-Installation
-Build Next-Gem from the source and install dependencies:
-Clone the repository:
-> git clone https://github.com/SantoshGoreba1ØØ7/Next-Gem
-2.Navigate to the project directory:
-> cd Next-Gem
-3.Install the dependencies:
-echo 'INSERT-INSTALL-COMMAND-HERE'
+## Getting Started
 
-Usage
-Run the project with:
-echo 'INSERT-RUN-COMMAND-HERE'
-Testing
-Next-gem uses the {test_framework} test framework. Run the test suite with:
->echo IINSERT-TEST-COMMAND-HEREI
-Return
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/next-gen-website.git
+   ```
+2. **Open the project folder.**
+3. **Open `index.html` in your browser to view the website.**
+
+## Customization
+
+- Edit `index.html` and `tech.html` to update content.
+- Modify `styles.css` for custom styles.
+- Add or replace images in the `images/` folder.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
