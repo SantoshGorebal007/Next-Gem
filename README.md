@@ -1,15 +1,15 @@
-# Next Gen Website
+# 🚀 Next Gen Website
 
 A modern, responsive website project built with HTML, CSS, and JavaScript.
 
-## Features
+## ✨ Features
 
-- Clean and responsive design
-- Multiple pages (`index.html`, `tech.html`)
-- Custom styles in `styles.css`
-- Image assets in the `images/` folder
+- 🎨 Clean and responsive design
+- 📄 Multiple pages (`index.html`, `tech.html`)
+- 🎯 Custom styles in `styles.css`
+- 🖼️ Image assets in the `images/` folder
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 app.js
@@ -23,7 +23,7 @@ images/
   pic4.jpg
 ```
 
-## Getting Started
+## 🚦 Getting Started
 
 1. **Clone the repository:**
    ```sh
@@ -32,12 +32,12 @@ images/
 2. **Open the project folder.**
 3. **Open `index.html` in your browser to view the website.**
 
-## Customization
+## 🛠️ Customization
 
-- Edit `index.html` and `tech.html` to update content.
-- Modify `styles.css` for custom styles.
-- Add or replace images in the `images/` folder.
+- ✏️ Edit `index.html` and `tech.html` to update content.
+- 🎨 Modify `styles.css` for custom styles.
+- 🖼️ Add or replace images in the `images/` folder.
 
-## License
+## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
